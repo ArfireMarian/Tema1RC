@@ -1,0 +1,15 @@
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\bin\Debug\net9.0\RC-Tema1.exe
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\bin\Debug\net9.0\RC-Tema1.deps.json
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\bin\Debug\net9.0\RC-Tema1.runtimeconfig.json
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\bin\Debug\net9.0\RC-Tema1.dll
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\bin\Debug\net9.0\RC-Tema1.pdb
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\RC-Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\RC-Tema1.AssemblyInfoInputs.cache
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\RC-Tema1.AssemblyInfo.cs
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\RC-Tema1.csproj.CoreCompileInputs.cache
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\RC-Tema1.sourcelink.json
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\RC-Tema1.dll
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\refint\RC-Tema1.dll
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\RC-Tema1.pdb
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\RC-Tema1.genruntimeconfig.cache
+C:\Facultate\anul 2\Semestrul 2\RC\RC-Tema1\RC-Tema1\obj\Debug\net9.0\ref\RC-Tema1.dll
