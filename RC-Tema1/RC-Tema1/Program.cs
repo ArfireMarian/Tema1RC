@@ -2,11 +2,11 @@
 using System.Collections.Concurrent;
 
 int nrStatii = 10;
-Node[] noduri = new Node[nrStatii];
+Node[] nodes = new Node[nrStatii];
 
 for (int i = 0; i < nrStatii; i++)
 {
-    noduri[i] = new Node(i + 1);
+    nodes[i] = new Node(i + 1);
 }
 
 
@@ -15,11 +15,38 @@ for (int i = 0; i < nrStatii; i++)
     
     if (i == nrStatii - 1)
     {
-        noduri[i].nextNode = noduri[0];
+        nodes[i].nextNode = nodes[0];
     }
     else
     {
-        noduri[i].nextNode = noduri[i + 1];
+        nodes[i].nextNode = nodes[i + 1];
     }
+
+
+
 }
+
+
+
+Task[] tasks = new Task[nrStatii];
+
+for(int i = 0;i < nrStatii;i++)
+{
+    Node nodCurent = nodes[i];
+    tasks[i] = Task.Run(() => nodCurent.RunExecution());
+
+}
+
+nodes[2].message = "Salut!";
+nodes[2].destination = 7;
+
+
+nodes[3].message = "Buna";
+nodes[3].destination = 7;
+
+TokenRingFrame token = new TokenRingFrame { IsTokenFree = true };
+nodes[0].Add(token);
+Task.WaitAll(tasks);
+
+
 

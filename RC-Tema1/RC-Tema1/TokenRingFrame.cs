@@ -9,7 +9,7 @@ namespace RC_Tema1
      public class TokenRingFrame
     {
 
-            public bool IsToken { get; set; }
+            public bool IsTokenFree { get; set; }
             public int SourceId { get; set; }
             public int DestinationId { get; set; }
             public string Data { get; set; }
